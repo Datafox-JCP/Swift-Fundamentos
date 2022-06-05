@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Swift en una hora'/>
+        <page name='01 Expresiones variables y constantes'/>
+        <page name='02 Tipos y operaciones'/>
+        <page name='03 Control de flujo'/>
+        <page name='04 Control de flujo avanzado'/>
+        <page name='05 Funciones'/>
+    </pages>
+</playground>
